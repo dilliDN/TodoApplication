@@ -8,8 +8,8 @@
     "url": "https://github.com/r-park/todo-react-redux.git"
   },
   "author": {
-    "name": "Richard Park",
-    "email": "objectiv@gmail.com"
+    "name": "DIlli",
+    "email": "nagappadilli868@gmail.com.com"
   },
   "license": "MIT",
   "private": true,
@@ -29,10 +29,10 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "firebase": "^4.1.3",
+    "firebase": "^8.2.4",
     "history": "^4.6.3",
     "immutable": "^3.8.1",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.7.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.5",
@@ -47,7 +47,6 @@
   "devDependencies": {
     "cross-env": "^5.0.1",
     "enzyme": "^2.9.1",
-    "firebase-tools": "^3.9.1",
     "minx": "r-park/minx.git",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.0.2",
